@@ -1,0 +1,12 @@
+{
+  "_comment": "This is the config file for CCEmuX. Refer to ccemux.default.json for the various options.",
+  "plugins": {
+    "net.clgd.ccemux.plugins.builtin.JFXPlugin": {
+      "forceUtilityDecoration": false,
+      "doubleFontScale": true
+    }
+  },
+  "termScale": 3.0,
+  "termHeight": 20,
+  "termWidth": 26
+}
